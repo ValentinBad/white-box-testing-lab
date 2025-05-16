@@ -1,0 +1,6 @@
+txt
+networkx
+matplotlib
+coverage
+pydot
+pytest
